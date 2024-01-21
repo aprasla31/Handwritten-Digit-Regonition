@@ -1,5 +1,9 @@
 # Handwritten-Digit-Regonition
-HANDWRITTEN DIGIT RECOGNITION USING ML AND PYTHON
+<div align="center">
+  <h1> HANDWRITTEN DIGIT RECOGNITION USING ML AND PYTHON</h1>
+ 
+ </div>
+
 > This Project uses Flask and Machine Learning 
 
 ## 💾 REQUIREMENTS
