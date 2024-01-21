@@ -3,12 +3,15 @@ HANDWRITTEN DIGIT RECOGNITION USING ML AND PYTHON
 > This Project uses Flask and Machine Learning 
 
 ## 💾 REQUIREMENTS
-+ Flask
-+ Numpy
-+ comtypes
++ flask
 + numpy
-+ pycaw
-
++ pillow
++ flake
++ pylint
++ gunicorn
++ matplotlib
++ torch
+  
 ```bash
 pip install -r requirements.txt
 ```
