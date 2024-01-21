@@ -15,6 +15,6 @@ HANDWRITTEN DIGIT RECOGNITION USING ML AND PYTHON
 ```bash
 pip install -r requirements.txt
 ```
-<div align="right">
+<div align="left">
   <h2> To Run This Project </h2>
  </div>
