@@ -22,3 +22,4 @@ pip install -r requirements.txt
 <div align="left">
   <h2> To Run This Project </h2>
  </div>
+ You need to open this particular folder in CMD ie Command Prompt and write "python app.py"
